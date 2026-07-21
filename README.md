@@ -98,44 +98,7 @@ When a movie title is provided, the system:
 3. Measures similarity between movies.
 4. Returns the most similar movies based on their content.
 
----
 
-## How to Run
-
-Clone the repository
-
-```bash
-git clone https://github.com/your-username/movie-recommendation-system.git
-```
-
-Install the required libraries
-
-```bash
-pip install pandas numpy scikit-learn nltk matplotlib
-```
-
-Open the notebook
-
-```bash
-jupyter notebook Movie_Recommendation.ipynb
-```
-
-Run all cells to generate the recommendation model.
-
----
-
-## What I Learned
-
-Through this project, I learned how to:
-
-- Clean and prepare real-world datasets
-- Merge multiple datasets
-- Perform text preprocessing
-- Build feature vectors using TF-IDF
-- Develop a content-based recommendation system
-- Save trained objects using Pickle for future use
-
----
 
 ## Future Improvements
 
